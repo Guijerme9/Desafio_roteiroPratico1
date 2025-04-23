@@ -1,1 +1,3 @@
-# Desafio_roteiroPratico1
+ Exercícios Desenvolvidos
+
+Utilizando variáveis como nome, idade e curso, o programa exibe uma apresentação pessoal formatada.
